@@ -1,6 +1,6 @@
 {
-	"author": "Przemysław Baśkiewicz",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Przemysław Baśkiewicz",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
