@@ -3,6 +3,7 @@
 	"author": "Przemysław Baśkiewicz",
 	"description": "A project for freeCodeCamp",
 	"keywords": ["descriptive", "related", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
